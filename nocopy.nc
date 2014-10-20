@@ -1,4 +1,5 @@
 // Qui Cè la Query ...$r=query;
+//$CodiceSpicers VIENE DAL DB ..
 
       $o="<div id='Adveo' style='overflow-y:scroll;height:450px;' >";
       
